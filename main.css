@@ -10,10 +10,10 @@ body {
   /*estrutura basica para uma imagem possa trabalhar como fundo*/
   background-color: #fffefeea;
   background-image: url(wallpaper-3.png);
-  background-position:center center;
-  background-repeat:no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background-position:center center; /*imagem posição centro*/
+  background-repeat:no-repeat; /*imagem não se repete*/
+  background-size: cover; /*imagem vai caber*/
+  background-attachment: fixed; /*imagem fixa*/
   
   /*background-image: linear-gradient(to bottom, yellow, black);*/
 }
